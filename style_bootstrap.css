@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav_bar {
+	display: flex;
+}
+
+.row.social_box {
+	padding: 20px 50px;
+}
